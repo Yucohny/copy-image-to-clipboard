@@ -1,5 +1,5 @@
 {
-  "name": "copy-image-to-clipboard",
+  "name": "image-copying-to-clipboard",
   "version": "1.0.0",
   "description": "A npm package for cross-browser image copying",
   "main": "dist/copyImageToClipboard.js",
