@@ -1,0 +1,26 @@
+{
+  "name": "copy-image-to-clipboard",
+  "version": "1.0.0",
+  "description": "A npm package for cross-browser image copying",
+  "main": "dist/copyImageToClipboard.js",
+  "scripts": {
+    "build": "rm -rf dist && tsc -b tsconfig.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yucohny/copy-image-to-clipboard.git"
+  },
+  "author": "Yucohny <yucohny@163.com>",
+  "license": "MIT",
+  "homepage": "https://github.com/Yucohny/copy-image-to-clipboard#readme",
+  "keywords": [],
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.15",
+    "@types/react-dom": "^18.2.7",
+    "typescript": "^5.1.6"
+  }
+}
